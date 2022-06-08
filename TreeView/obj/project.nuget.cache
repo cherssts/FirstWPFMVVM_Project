@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zLo1ASpbpWM6Q17Csweu1KURSW6tpyjteQAvuAR9xclTdl7lOwFHckAOydJ5RPkXeOkxDEMfPP/e18/snnFdjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eimyf\\source\\repos\\TreeView\\TreeView\\TreeView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eimyf\\.nuget\\packages\\fody\\6.6.2\\fody.6.6.2.nupkg.sha512",
+    "C:\\Users\\Eimyf\\.nuget\\packages\\propertychanged.fody\\3.4.1\\propertychanged.fody.3.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
